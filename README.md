@@ -1,16 +1,6 @@
-# android_pr3_2
+# android_pr3
 
-A new Flutter project.
+## Малахов Григорий
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Снимок экрана (21)](https://github.com/user-attachments/assets/92cdc931-669d-4377-acfd-01f90218c675)
+![Снимок экрана (20)](https://github.com/user-attachments/assets/6d9fae85-e7ab-43a7-88d6-e06d03b4e7dc)
